@@ -1,0 +1,1 @@
+find . -name \*.jpg -type f -delete 
